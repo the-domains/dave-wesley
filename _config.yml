@@ -1,0 +1,28 @@
+name: Dave Wesley
+favicon: null
+layout_spectrum: 0.01316848723217845
+typography_spectrum: 0.8544469161424786
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.30294102849438787
+  lightness: 0.7281827426049858
+  saturation: 0.11635913047939539
+  rhythmicContrast: 0.2349107558839023
+purpose: []
