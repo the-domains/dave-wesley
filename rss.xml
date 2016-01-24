@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Dave Wesley]]></title>
         <description><![CDATA[Dave Wesley]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/dave-wesley/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jan 2016 09:05:27 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 24 Jan 2016 09:05:29 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/dave-wesley/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e358b534-ec45-4099-bca7-7b69c9aefde0.jpg">]]></description>
-            <link>undefinedcfe5155d-f55d-4473-a4c3-0763d682e4f0/index.html</link>
+            <link>https://thegrid.ai/dave-wesley/cfe5155d-f55d-4473-a4c3-0763d682e4f0/index.html</link>
             <guid isPermaLink="false">cfe5155d-f55d-4473-a4c3-0763d682e4f0</guid>
-            <pubDate>Sun, 24 Jan 2016 09:04:37 GMT</pubDate>
+            <pubDate>Sun, 24 Jan 2016 09:05:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
